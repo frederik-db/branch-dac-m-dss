@@ -4,7 +4,7 @@ This document lists the Maintainers of the Project. Maintainers may be added onc
 
 | **NAME** | **Organization** |
 | --- | --- |
-| Maintainer 1 | |
+| Frederik Schäfer | DB Cargo AG |
 | Maintainer 2 | |
 
 ---
