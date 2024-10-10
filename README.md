@@ -20,7 +20,10 @@ You are welcome to contact the maintainers. More information on communication wi
 
 ## Resources
 
-[REPLACEME: links to additional useful information, home page, documentation, etc.]
+<!-- [REPLACEME: links to additional useful information, home page, documentation, etc.]-->
+###Related projects and problem to be solved:
+[DACFIT] (https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Fit-fuer-die-digitale-Zukunft-Europaweite-Vorbereitungen-zur-DAK-Einfuehrung-starten-12795632)
+
 
 ## Contributing
 
