@@ -1,5 +1,35 @@
-# OpenRail Project Template Repository
 
-This repository is a template which can be used to create new repositories within the OpenRail Association. It contains the minimum required standard files to define governance and basic project information. Each project should then adapt them to their own needs within the guidelines defined by the OpenRail Association.
 
-This README.md file is the description of the template repository. For a new repository you should replace it by a README.md tailored for your project.
+# DAC Migration DSS
+
+<!-- [REPLACEME: badges, remove if you don't show any badges] -->
+
+The Digital Automatic Couple Migration Decision Support System (short DAC Migration DSS) helps to set up the plan for switching from screw couplers to digital automatic couplers.
+
+Within the next years it is forseen to retrofit around 500 K vehicles from the old coupler type to the new ones. This will affect rail undertakings, wagon owners, workshops and many others in the
+rail industry all over Europe. This crucial as well as unparalleld undertaking calls for a software finally supporting all stages of migration. For now following the steps of the planing proces the
+startegic planing is focussed. 
+
+## Getting started
+
+Yet the DAC Migration DSS it is a concept including a mathematical model. 
+
+## Communication
+
+You are welcome to contact the maintainers. More information on communication will be added soon.
+
+## Resources
+
+[REPLACEME: links to additional useful information, home page, documentation, etc.]
+
+## Contributing
+
+Contributions are welcome. See the documentation at [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
+
+## License
+
+You' find the projects licence [here](https://github.com/OpenRailAssociation/dac-migration-dss/blob/main/LICENSE)
+
+## Conduct
+
+We follow the [code of conduct](CODE_OF_CONDUCT.md) of the OpenRail Association.
