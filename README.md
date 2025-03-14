@@ -6,13 +6,13 @@
 
 The Digital Automatic Couple Migration Decision Support System (short DAC Migration DSS) helps to set up the plan for switching from screw couplers to digital automatic couplers.
 
-Within the next years it is forseen to retrofit around 500 K vehicles from the old coupler type to the new ones. This will affect rail undertakings, wagon owners, workshops and many others in the
-rail industry all over Europe. This crucial as well as unparalleld undertaking calls for a software finally supporting all stages of migration. For now following the steps of the planing proces the
-startegic planing is focussed. 
+Within the next years it is foreseen to retrofit around 500 K vehicles from the old coupler type to the new ones. This will affect rail undertakings, wagon owners, workshops and many others in the
+rail industry all over Europe. This crucial as well as unparalleled undertaking calls for a software finally supporting all stages of migration. For now following the steps of the planning process the
+strategic planning is focussed. 
 
 ## Getting started
 
-Yet the DAC Migration DSS it is a concept including a [mathematical model](https://github.com/OpenRailAssociation/dac-migration-dss/blob/main/doc/DAK_Migration_DSS_Model_V2.0.pdf). 
+Yet the DAC Migration DSS is a concept including a [mathematical model](https://github.com/OpenRailAssociation/dac-migration-dss/blob/main/doc/DAK_Migration_DSS_Model_V2.0.pdf). 
 
 ## Communication
 
