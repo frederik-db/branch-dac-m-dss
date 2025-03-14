@@ -12,7 +12,7 @@ strategic planning is focussed.
 
 ## Getting started
 
-Yet the DAC Migration DSS is a concept including a mathematical model. 
+Yet the DAC Migration DSS is a concept including a [mathematical model](https://github.com/OpenRailAssociation/dac-migration-dss/blob/main/doc/DAK_Migration_DSS_Model_V2.0.pdf). 
 
 ## Communication
 
